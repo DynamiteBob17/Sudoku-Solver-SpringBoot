@@ -1,5 +1,6 @@
 # About
-- Spring Boot version of [this project](https://github.com/DynamiteBob17/Sudoku-Solver)
+- Spring Boot version of [Sudoku-Solver](https://github.com/DynamiteBob17/Sudoku-Solver)
+- [live demo](https://clipchamp.com/watch/KzHK0zzOggP)
 
 ## How to run
 - See the [official docs](https://docs.spring.io/spring-boot/docs/1.5.16.RELEASE/reference/html/using-boot-running-your-application.html)
